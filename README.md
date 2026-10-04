@@ -1,5 +1,5 @@
-## Hi there 👋
-
+#### Hello there, it's CipherX 👋
+  - I am currently studying my first year software engineering course at Bahirdar university. 
 <!--
 **yeabisira-getinet/yeabisira-getinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
